@@ -56,7 +56,7 @@ Study its functionality and also inspect the Console, the Network tab and the El
   - The submit success and error messages that display on the page come from the API (see Network tab).
   - No frontend form validation code is required.
 - The coordinates of each square of the grid are as follows:
-
+ 
   ```js
     (1, 1) (2, 1) (3, 1)
     (1, 2) (2, 2) (3, 2)
